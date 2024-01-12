@@ -1,1 +1,1 @@
-**How to Restricte IAM User on Single Bucket**
+**How to Restrict IAM User on Single Bucket**
